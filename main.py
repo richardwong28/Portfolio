@@ -11,7 +11,7 @@ logging.basicConfig(filename='logs/scraper.log', level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 async def main():
-    print("--- MEMULAI PROYEK SCRAPING ---")
+    print("--- MEMULAI PROYEK SCRAPING ---") #start
     scraper = PriceScraper()
     
     try:

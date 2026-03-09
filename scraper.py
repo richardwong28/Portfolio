@@ -2,7 +2,7 @@ import asyncio
 from playwright.async_api import async_playwright
 from playwright_stealth import Stealth
 
-class PriceScraper:
+class PriceScraper: #scrap
     def __init__(self):
         self.results = []
 

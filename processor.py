@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-def clean_and_save(data, filename):
+def clean_and_save(data, filename): #save data
     if not data:
         raise ValueError("Data kosong! Scraper tidak mendapatkan hasil apapun.")
     
