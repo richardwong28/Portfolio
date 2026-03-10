@@ -6,7 +6,7 @@ A professional, modular web scraping system built with **Python 3.13** and **Pla
 
 * **Anti-Bot Bypass:** Implements the latest `playwright-stealth` (Object-Oriented API) to mimic human behavior and avoid IP blocking.
 * **Dynamic Content Handling:** Uses Playwright to render JavaScript-heavy websites that traditional scrapers (like BeautifulSoup) cannot handle.
-* **Modular Architecture:** Organized into distinct modules (`scraper`, `processor`, `logger`) for high maintainability and scalability.
+* **Modular Architecture:** Organized into distinct modules (`scraper`, `processor`) for high maintainability and scalability.
 * **Automated Data Cleaning:** Integrated with **Pandas** to transform raw HTML data into polished Excel reports (XLSX).
 * **Professional Logging:** Tracks scraping progress and errors in real-time for easier debugging.
 
