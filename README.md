@@ -1,4 +1,4 @@
-# Automated Property & Market Research Scraper
+# Automated Market Research Scraper
 
 A professional, modular web scraping system built with **Python 3.13** and **Playwright**. This project demonstrates the ability to bypass modern bot detection, handle dynamic content, and deliver clean, structured data for business intelligence.
 
